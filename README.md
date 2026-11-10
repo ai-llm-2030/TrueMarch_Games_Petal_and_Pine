@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Petal & Pine — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-missions.png" alt="The tea-house tables"><br><sub>The tea-house tables</sub></td><td width="50%"><img src="assets/screenshot-roundend.png" alt="Calling Shōbu"><br><sub>Calling Shōbu</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-results.png" alt="The ink count"><br><sub>The ink count</sub></td><td width="50%"><img src="assets/screenshot-pause.png" alt="The tea is poured: paused"><br><sub>The tea is poured: paused</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
